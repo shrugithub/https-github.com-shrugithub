@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shruti-gupta-26ba041b6/" target="_blank"> Shruti Gupta </a> </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript+React+JAVA+MYSQL+DSA%3A)" /> </h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -30,16 +30,8 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Shruti Gupta&show_icons=true&theme=dark&locale=en" alt="shruti Gupta" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shruti Gupta&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shruti Gupta" /></td>
-  </tr>
-</table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti Gupta&theme=dark" alt="Shruti Gupta" /></p>
-  </div>
+ 
 
 
 
